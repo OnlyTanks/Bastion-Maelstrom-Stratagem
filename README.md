@@ -58,9 +58,9 @@ The runtime records are validated before changes are applied.
 
 Designed for use with:
 
-[HD2Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
-[Bingus Shared Loader](https://github.com/CowboyBingus/BingusSharedLoader)
-- Vehicle MultiSelect
+- [HD2Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
+- [Bingus Shared Loader](https://github.com/CowboyBingus/BingusSharedLoader)
+- Vehicle MultiSelect (optional)
 - Tank Cooldown v2
 
 Tank Cooldown v2 is a separate mod and only modifies the cooldown values of the
