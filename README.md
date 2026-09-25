@@ -19,7 +19,7 @@ A Helldivers 2 mod that adds both the **TD-220 Bastion** and **TD-110 Maelstrom*
 
 ### BSL Version
 
-Requires **Bingus Shared Loader v17**.
+Requires [**Bingus Shared Loader**](https://github.com/CowboyBingus/BingusSharedLoader)
 
 Internal module:
 
@@ -37,7 +37,7 @@ If you use mods such as Vehicle MultiSelect, the BSL version is generally prefer
 ## Installation
 
 1. Download the desired version from the Releases page.
-2. Import the ZIP into Arsenal.
+2. Import the ZIP into [HD2Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
 3. Enable the mod.
 4. Purge and Deploy.
 5. Launch Helldivers 2.
@@ -58,8 +58,8 @@ The runtime records are validated before changes are applied.
 
 Designed for use with:
 
-- Arsenal
-- Bingus Shared Loader v17
+[HD2Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
+[Bingus Shared Loader](https://github.com/CowboyBingus/BingusSharedLoader)
 - Vehicle MultiSelect
 - Tank Cooldown v2
 
